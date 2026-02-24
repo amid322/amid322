@@ -60,7 +60,7 @@ This GitHub contains the labs, notes, scripts, and experiments I create while le
   
   👉 https://github.com/amid322/Keylogger-Telegram-API
 
-- ***🛠 More projects coming soon as I continue building and documenting my work.***
+   ***🛠 More projects coming soon as I continue building and documenting my work.***
 ---
 
    **Always working to improve my skills through practice.**
