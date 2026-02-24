@@ -1,4 +1,4 @@
-# Hello!  I'M  Ahmed Beshir
+# Hello! i'am Ahmed Beshir
 
 A CS student  building my career as a penetration tester.
 
