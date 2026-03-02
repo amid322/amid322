@@ -2,7 +2,7 @@
 
 A CS student  building my career as a penetration tester.
 
-I spend most of my time improving my networking skills and testing web applications to  understand how it work.
+I spend most of my time improving my networking skills and  learning penetration testin and web application to  understand how it work.
 
 This GitHub contains the labs, notes, scripts, and experiments I create while learning and practicing security concepts.
 
